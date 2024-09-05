@@ -12,4 +12,4 @@ This repository contains the code and notes from my React learning process.
 
 ## Projects made
 1. Bg Changer
-![RBg Changer](./images/bgChnager")
+![Bg Changer](./images/bgChanger.png")
