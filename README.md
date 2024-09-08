@@ -13,5 +13,5 @@ This repository contains the code and notes from my React learning process.
 ## Projects made
 1. Bg Changer
 ![Background Changer](./images/bgChanger.png "Background Changer")
-From this project I learnt how to use useState hook in project, state management and how thr function updates the state.
+From this project I learnt how to use useState hook in project, state management and how the function updates the state.
 
