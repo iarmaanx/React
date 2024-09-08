@@ -15,3 +15,6 @@ This repository contains the code and notes from my React learning process.
 ![Background Changer](./images/bgChanger.png "Background Changer")
 From this project I learnt how to use useState hook in project, state management and how the function updates the state.
 
+2. Password Generator
+I'm currently working on this.
+
