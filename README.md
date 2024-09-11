@@ -17,10 +17,12 @@ From this project I learnt how to use useState hook in project, state management
 
 2. Password Generator
 ![Password Generator](./images/passwordGenerator.png "Password Generator")
-In this project I learnt how to use useCallback Hook, useState and useEffect hook. <br>
+In this project I learnt how to use useCallback Hook, useState, useRef and useEffect hook. <br>
 useCallback - here I used for optimization, to cache function in the memory. ,<br>
 useEffect - to run the function if any dependency changes. <br>
 useState - all the state management is done using useState hook.  <br>
+useRef - to take reference of password while copying it to clipboard.  <br>
+Method used to copy value to clipboard - window.navigator.clipboard.writeText() <br>
 Here **Length** = password size <br>
 **Numbers** = to include numbers <br>
 **Symbols** = to include symbols <br>
@@ -36,5 +38,8 @@ It's simple. <br>
 `npm run dev`
 
 Here you go:)
+
+
+YouTube playlist - https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige
 
 
