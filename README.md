@@ -1,4 +1,4 @@
-# Learn React
+# Learning React
 
 This repository contains the code and notes from my React learning process.
 
