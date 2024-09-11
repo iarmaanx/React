@@ -16,6 +16,7 @@ This repository contains the code and notes from my React learning process.
 From this project I learnt how to use useState hook in project, state management and how the function updates the state.
 
 2. Password Generator
+![Password Generator](./images/passwordGenerator.png "Password Generator")
 In this project I learnt how to use useCallback Hook, useState and useEffect hook. <br>
 useCallback - here I used for optimization, to cache function in the memory. ,<br>
 useEffect - to run the function if any dependency changes. <br>
