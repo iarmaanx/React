@@ -10,6 +10,10 @@ This repository contains the code and notes from my React learning process.
 - **Hooks**: Learning React hooks like `useState` and `useEffect`.
 - **Projects**: Small projects and exercises to apply React knowledge.
 
+## Resources
+YouTube playlist - https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige
+
+
 ## Projects made
 1. Bg Changer
 ![Background Changer](./images/bgChanger.png "Background Changer")
@@ -27,19 +31,24 @@ Here **Length** = password size <br>
 **Numbers** = to include numbers <br>
 **Symbols** = to include symbols <br>
 
+3. Currency Convertor
+Intialized the project, learning hook to create a custom hook.
+Custom Hook - At the end of the day hooks are just functions returning some values. So we can also create our own custom hooks.
+Installed "React Snipp ~ Essential React Snippets" extension. Learn more- https://marketplace.visualstudio.com/items?itemName=adityavijay21.ReactSnipp
 
 
 **I haven't uploaded these projects on Netlify but if you want to run them on your local machine.** <br>
 It's simple. <br>
-1. Download the project file you want to run.
-2. Run this command in terminal: <br>
+1. Download the project file.
+2. Choose the project you want to run. <br>
+`cd projectName`
+3. Run this command in terminal: <br>
 `npm i` <br>
-3. And then <br>
+4. And then <br>
 `npm run dev`
 
 Here you go:)
 
 
-YouTube playlist - https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige
 
 
