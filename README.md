@@ -13,13 +13,15 @@ This repository contains the code and notes from my React learning process.
 
 ## Resources
 
-YouTube playlist - <https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige>
+YouTube playlist - <https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige> <br>
+Official React Docs - https://react.dev/learn
 
 ## Projects made
 
 1. Bg Changer
 ![Background Changer](./images/bgChanger.png "Background Changer")
 From this project I learnt how to use useState hook in project, state management and how the function updates the state.
+
 
 2. Password Generator
 ![Password Generator](./images/passwordGenerator.png "Password Generator")
@@ -33,6 +35,7 @@ Here **Length** = password size <br>
 **Numbers** = to include numbers <br>
 **Symbols** = to include symbols <br>
 
+
 3. Currency Convertor
 Intialized the project, learning hook to create a custom hook. <br>
 Custom Hook - At the end of the day hooks are just functions returning some values. So we can also create our own custom hooks. <br>
@@ -40,7 +43,7 @@ Installed "React Snipp ~ Essential React Snippets" extension. <br>
 Learn more- <https://marketplace.visualstudio.com/items?itemName=adityavijay21.ReactSnipp> <br>
 After creating the custom hook, I created a new jsx component `InputBox.jsx` <br>
 Took some props like label, currencyOptions, amount and then used 'for' loop to get options in the select list. <br>
-Learned `useId Hook` - which creates a unique ID for elements.
+Learned `useId Hook` - which creates a unique ID for elements. 
 
 
 
