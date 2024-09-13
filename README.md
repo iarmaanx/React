@@ -39,8 +39,8 @@ Here **Length** = password size <br>
 3. Currency Convertor
 Intialized the project, learning hook to create a custom hook. <br>
 Custom Hook - At the end of the day hooks are just functions returning some values. So we can also create our own custom hooks. <br>
-Installed "React Snipp ~ Essential React Snippets" extension. <br> 
-Learn more- <https://marketplace.visualstudio.com/items?itemName=adityavijay21.ReactSnipp> <br>
+Installed "ES7+ React/Redux/React-Native snippets" extension which allows you to use shortcuts in React. <br> 
+Learn more- https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets <br>
 After creating the custom hook, I created a new jsx component `InputBox.jsx` <br>
 Took some props like label, currencyOptions, amount and then used 'for' loop to get options in the select list. <br>
 Learned `useId Hook` - which creates a unique ID for elements. 
