@@ -34,8 +34,8 @@ function App() {
             backgroundImage: `url('https://images.pexels.com/photos/1539225/pexels-photo-1539225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`,
         }}
     > 
-    <div><p className='text-white -mt-24 font-serif text-2xl font-bold'>Currency Converter</p></div>
-        <div className="w-full -mt-56">
+    <div><p className='text-white -mt-0 font-serif text-2xl font-bold'>Currency Converter</p></div>
+        <div className="w-full flex items-center justify-center">
             <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
                 <form
                     onSubmit={(e) => {
@@ -70,7 +70,7 @@ function App() {
                             amount={convertedAmount}
                             currencyOptions={options}
                             onCurrencyChange={(currency) => setTo(currency)}
-                            selectCurrency={from}
+                            selectCurrency={to}
                             amountDisable
                         />
                     </div>
@@ -80,6 +80,9 @@ function App() {
                 </form>
             </div>
         </div>
+        <button className='bg-red-600 text-white rounded py-2 px-4'
+        onClick={() => setAmount(0) & setConvertedAmount(0)}
+        >Reset</button>
     </div>
 );
 }

@@ -37,6 +37,7 @@ Here **Length** = password size <br>
 
 
 3. Currency Convertor
+![Currency Convertor](./images/currencyConverter.png "Currency Convertor")
 Intialized the project, learning hook to create a custom hook. <br>
 Custom Hook - At the end of the day hooks are just functions returning some values. So we can also create our own custom hooks. <br> <br>
 Installed "ES7+ React/Redux/React-Native snippets" extension which allows you to use shortcuts in React. <br> 
@@ -47,6 +48,7 @@ Learned `useId Hook` - which creates a unique ID for elements.
 Here I used .map method to map the list of currenices. <br>
 Object.keys() method to get those names of currenices from API data. 
 Always add a error handling while calling a API, sometimes API call gives error and we didn't get to know.
+I also added a Reset button to reset the app with initial values.
 
 
 
