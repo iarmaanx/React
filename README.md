@@ -50,6 +50,12 @@ Object.keys() method to get those names of currenices from API data.
 Always add a error handling while calling a API, sometimes API call gives error and we didn't get to know.
 I also added a Reset button to reset the app with initial values.
 
+4. Currency Convertor
+![Currency Convertor](./images/currencyConverter.png "Currency Convertor")
+In this project I learnt about Routing. I used to the command `npm i react-router-dom` to install React Router DOM. We don't use anchor tag in React because that reloads the whole page that makes no sense in React. <br>
+Created a Layout.jsx file which defines the structure of static and dynamic files. 
+Used RouterProvider in main.jsx which takes path, element as props.
+
 
 
 
