@@ -65,9 +65,9 @@ I also added a Reset button to reset the app with initial values.
 
 
 
-
-
-**I haven't uploaded these projects on Netlify but if you want to run them on your local machine.** <br>
+<br>
+<br>
+** ⬇️ I haven't uploaded these projects on Netlify but if you want to run them on your local machine.** <br>
 It's simple. <br>
 
 1. Download the project file.
