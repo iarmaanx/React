@@ -78,7 +78,7 @@ It's simple. <br>
 4. And then <br>
 `npm run dev`
 
-Here you go:)
+If you found this repository useful give it a star :)
 
 <br>
 
