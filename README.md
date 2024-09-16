@@ -43,9 +43,9 @@ Custom Hook - At the end of the day hooks are just functions returning some valu
 Installed "ES7+ React/Redux/React-Native snippets" extension which allows you to use shortcuts in React. <br> 
 Learn more- https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets <br>
 After creating the custom hook, I created a new jsx component `InputBox.jsx` <br> <br>
-Took some props like label, currencyOptions, amount and then used 'for' loop to get options in the select list. <br>
+Took some props like label, currencyOptions, amount and then used '.map' method to get options in the select list. <br>
 Learned `useId Hook` - which creates a unique ID for elements.
-Here I used .map method to map the list of currenices. <br>
+Here I used .map method to map the list of currenices. <br><br>
 Object.keys() method to get those names of currenices from API data. 
 Always add a error handling while calling a API, sometimes API call gives error and we didn't get to know.
 I also added a Reset button to reset the app with initial values.
