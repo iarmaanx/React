@@ -55,6 +55,8 @@ I also added a Reset button to reset the app with initial values.
 In this project I learnt about Routing. I used to the command `npm i react-router-dom` to install React Router DOM. We don't use anchor tag in React because that reloads the whole page that makes no sense in React. <br>
 Created a Layout.jsx file which defines the structure of static and dynamic files. 
 Used RouterProvider in main.jsx which takes path, element as props.
+Learnt the two ways of creating the Router elements. 
+Learnt a very cool thing with urls. You can pass anything(it can be text or numbers) in the url and access that in your elements. It's very intersting concept while designing user admin pages.
 
 
 
