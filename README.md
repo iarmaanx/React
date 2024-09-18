@@ -52,6 +52,9 @@ I also added a Reset button to reset the app with initial values.
 
 4. React Router
 ![React Router](./images/reactRouter.png "React Router")
+
+React Router Official Docs : https://reactrouter.com/en/main
+
 In this project I learnt about Routing. I used to the command `npm i react-router-dom` to install React Router DOM. We don't use anchor tag in React because that reloads the whole page that makes no sense in React. <br>
 Created a Layout.jsx file which defines the structure of static and dynamic files. 
 Used RouterProvider in main.jsx which takes path, element as props.
@@ -60,7 +63,7 @@ Learnt a very cool thing with urls. You can pass anything(it can be text or numb
 <br>
 Used github API to get data from Github and made a API call in loader attribute of the Router tag jsut to optimize the API call time. 
 
-![React Router](./images/reactRouter2.png "React Router")
+
 <br>
 Learnt about how different pages(elements) are injected in the nesting of Router.
 
