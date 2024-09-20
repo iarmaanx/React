@@ -65,7 +65,9 @@ Used github API to get data from Github and made a API call in loader attribute 
 Learnt about how different pages(elements) are injected in the nesting of Router.
 
 
-
+5. React Context
+Usecase- When you fill a login form the data like your name is directly passed to the dashboard.
+When you need to pass data from one component to another.
 
 
 
