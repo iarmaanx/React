@@ -72,6 +72,22 @@ Learnt about how different pages(elements) are injected in the nesting of Router
 Usecase- When you fill a login form the data like your name is directly passed to the dashboard.
 When you need to pass data from one component to another.
 
+6. Theme Switcher
+Uderstanding the Context hooks in depth. It's basically two components- <br>
+(a) createContext <br>
+(b) useContext <br>
+
+
+
+Let's uderstand these a bit. <br>
+(a) createContext - This initally creates a global variable which is accessible in the components. You can use this in different components. <br>
+Let me explain this with example. Think of a theme changer button. You're using dashboard component of your React app ,the theme is dark so now you clicked on the button and changed it to light. Even you surf through different compnents the theme will remain light. How this variable is being shared. Here we use this concept.
+
+(b) useContext - Now you have created a global variable. To use it we refer to useContext hook.
+
+
+
+
 
 
 
