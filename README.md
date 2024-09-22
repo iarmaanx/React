@@ -18,13 +18,18 @@ Official React Docs - https://react.dev/learn
 
 ## Projects made
 
-1. Bg Changer
+1. Basics of React
+
+
+2. Bg Changer
 ![Background Changer](./images/bgChanger.png "Background Changer")
+
 From this project I learnt how to use useState hook in project, state management and how the function updates the state.
 
 
-2. Password Generator
+3. Password Generator
 ![Password Generator](./images/passwordGenerator.png "Password Generator")
+
 In this project I learnt how to use useCallback Hook, useState, useRef and useEffect hook. <br>
 useCallback - here I used for optimization, to cache function in the memory. ,<br>
 useEffect - to run the function if any dependency changes. <br>
@@ -36,8 +41,9 @@ Here **Length** = password size <br>
 **Symbols** = to include symbols <br>
 
 
-3. Currency Convertor
+4. Currency Convertor
 ![Currency Convertor](./images/currencyConverter.png "Currency Convertor")
+
 Intialized the project, learning hook to create a custom hook. <br>
 Custom Hook - At the end of the day hooks are just functions returning some values. So we can also create our own custom hooks. <br> <br>
 Installed "ES7+ React/Redux/React-Native snippets" extension which allows you to use shortcuts in React. <br> 
@@ -50,7 +56,7 @@ Object.keys() method to get those names of currenices from API data.
 Always add a error handling while calling a API, sometimes API call gives error and we didn't get to know.
 I also added a Reset button to reset the app with initial values.
 
-4. React Router
+5. React Router
 ![React Router](./images/reactRouter.png "React Router")
 
 React Router Official Docs : https://reactrouter.com/en/main
@@ -68,11 +74,13 @@ Used github API to get data from Github and made a API call in loader attribute 
 Learnt about how different pages(elements) are injected in the nesting of Router.
 
 
-5. React Context
+6. React Context
 Usecase- When you fill a login form the data like your name is directly passed to the dashboard.
 When you need to pass data from one component to another.
 
-6. Theme Switcher
+7. Theme Switcher
+![Theme Switcher](./images/themeSwitch.png "Theme Switcher")
+
 Uderstanding the Context hooks in depth. It's basically two components- <br>
 (a) createContext <br>
 (b) useContext <br>
@@ -83,7 +91,9 @@ Let's uderstand these a bit. <br>
 (a) createContext - This initally creates a global variable which is accessible in the components. You can use this in different components. <br>
 Let me explain this with example. Think of a theme changer button. You're using dashboard component of your React app ,the theme is dark so now you clicked on the button and changed it to light. Even you surf through different compnents the theme will remain light. How this variable is being shared. Here we use this concept.
 
-(b) useContext - Now you have created a global variable. To use it we refer to useContext hook.
+(b) useContext - Now you have created a global variable. To use it we refer to useContext hook. <br>
+
+Learnt how a global variable is used in differnet components without passing it to props.
 
 
 
