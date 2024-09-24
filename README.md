@@ -79,6 +79,7 @@ Usecase- When you fill a login form the data like your name is directly passed t
 When you need to pass data from one component to another.
 
 7. Theme Switcher
+
 ![Theme Switcher](./images/themeSwitch.png "Theme Switcher")
 
 Uderstanding the Context hooks in depth. It's basically two components- <br>
@@ -94,6 +95,12 @@ Let me explain this with example. Think of a theme changer button. You're using 
 (b) useContext - Now you have created a global variable. To use it we refer to useContext hook. <br>
 
 Learnt how a global variable is used in differnet components without passing it to props.
+
+8. ToDo <br>
+Here I learnt deep about context api in react which gave me more clearity about their use.
+
+<br>
+I learnt a new thing that useState hook gives you access of previous value stored in it.
 
 
 
