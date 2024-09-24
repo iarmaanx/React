@@ -102,14 +102,16 @@ Here I learnt deep about context api in react which gave me more clearity about 
 <br>
 I learnt a new thing that useState hook gives you access of previous value stored in it.
 
+<br>
+
+<br>
 
 
 
 
 
 
-Armaan is constantly updating this space, so make sure to check back often for new resources!
 
 ---
-
+Armaan is constantly updating this space, so make sure to check back often for new resources! <br>
 CodeBetter! 🚀
