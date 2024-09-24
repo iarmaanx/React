@@ -108,32 +108,8 @@ I learnt a new thing that useState hook gives you access of previous value store
 
 
 
-
-
-
-
-
-
-
-
-
-<br>
-<br>
-** ⬇️ I haven't uploaded these projects on Netlify but if you want to run them on your local machine.** <br>
-It's simple. <br>
-
-1. Download the project file.
-2. Choose the project you want to run. <br>
-`cd projectName`
-3. Run this command in terminal: <br>
-`npm i` <br>
-4. And then <br>
-`npm run dev`
-
-If you found this repository useful give it a star :)
-
-<br>
+Armaan is constantly updating this space, so make sure to check back often for new resources!
 
 ---
 
-_Written with ❤️ by Armaan Singh_
+CodeBetter! 🚀
